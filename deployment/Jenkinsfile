@@ -6,6 +6,8 @@ def getImageTag() {
     return dateFormat.format(currentDate)
 }
 
+
+
 podTemplate(
     label: "${PIPELINE_ID}",
     serviceAccount: 'jenkins',
