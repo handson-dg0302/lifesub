@@ -30,4 +30,8 @@ spec:
           service:
             name: recommend
             port:
-              number: 80
+              number: 80   
+              
+              
+              
+              
