@@ -2,7 +2,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: member
-  namespace: dg0305-lifesub-ns
+  namespace: dg0302-lifesub-ns
 spec:
   replicas: 1
   selector:
