@@ -15,3 +15,5 @@ public class MemberApplication {
         SpringApplication.run(MemberApplication.class, args);
     }
 }
+
+
